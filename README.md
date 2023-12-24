@@ -18,10 +18,27 @@ Visual components and Python
 
 ## Experiment:
 
+![exp (1)](https://github.com/Confusion7/Open-Jacson-Networks/assets/141727149/361f9483-e10b-42b8-a528-5e4f4c064df1)
 
-## Program
 
 
-## Output
+## Program:
 
-## Result
+DEVELOPED BY : MOHAMMED SAAJID S
+
+REGISTER NO : 212223240093 
+
+![program](https://github.com/Confusion7/Open-Jacson-Networks/assets/141727149/2e3f06b8-5cec-4612-8fda-139f7af0bdd0)
+
+
+
+## Output:
+
+![op](https://github.com/Confusion7/Open-Jacson-Networks/assets/141727149/bf58b102-cba6-4fa3-919c-0ad87ba42fbc)
+
+
+
+## Result:
+
+The average number of material in the sysytem and in the conveyor and waiting time are
+successfully found.
